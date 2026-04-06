@@ -103,3 +103,6 @@ Visual: Max & Min Charges by Age Group (Table)
 Insight:
 
 - Insurance charges increase significantly with age, indicating higher risk in older age groups
+
+
+![Dashboard Preview](https://github.com/Priyanshi2205/Insurance-Dashboard/blob/main/Insurance%20dashboard.png)
